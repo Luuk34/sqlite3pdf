@@ -3,7 +3,7 @@ a PDF containing the documentation from sqlite.org
 
 The PDF create is not complete yet, things TODO:
 - An index at the start of the PDF
-- Some missing images in 'fileio'
+- Some missing images in 'fileio' (see: https://sqlite.org/fileio.html)
 - Some missing HTML, like: https://sqlite.org/syntax/alter-table-stmt.html
 
 Software used:
