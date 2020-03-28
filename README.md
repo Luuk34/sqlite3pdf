@@ -1,2 +1,2 @@
 # sqlite3pdf
-a PDF containting the documentation from sqlite.org
+a PDF containing the documentation from sqlite.org
