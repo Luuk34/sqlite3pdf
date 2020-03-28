@@ -2,9 +2,9 @@
 a PDF containing the documentation from sqlite.org
 
 The PDF create is not complete yet, things TODO:
-- Some missing images in 'fileio')
-- an index at the start of the PDF
-- some missing HTML, like: https://sqlite.org/syntax/alter-table-stmt.html
+- An index at the start of the PDF
+- Some missing images in 'fileio'
+- Some missing HTML, like: https://sqlite.org/syntax/alter-table-stmt.html
 
 Software used:
 wkhtmltox  - https://wkhtmltopdf.org/
