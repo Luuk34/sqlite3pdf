@@ -10,4 +10,4 @@ Software used:
 
 - wkhtmltox  - https://wkhtmltopdf.org/
 - gawk       - https://www.gnu.org/software/gawk/
-- Windows 10 - microsoft.com ... (because thos linux-guys do not want a PDF, for sure 😉)
+- Windows 10 - microsoft.com ... (because those linux-guys do not want a PDF, for sure 😉)
