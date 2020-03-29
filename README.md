@@ -2,6 +2,7 @@
 a PDF containing the documentation from sqlite.org
 
 The PDF create is not complete yet, things TODO:
+- internal link should point to this PDF, and not to internet.
 - An index at the start of the PDF
 - Some missing images in 'fileio' (see: https://sqlite.org/fileio.html)
 - Some missing HTML, like: https://sqlite.org/syntax/alter-table-stmt.html
